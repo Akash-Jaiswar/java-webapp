@@ -13,7 +13,7 @@ pageEncoding="ISO-8859-1"%>
 		<a href="index.jsp">Go to home page</a>
 
 		<a href="services.jsp">Go to Service page</a>
-		
+	
 	</body>
 	
 </html>		
